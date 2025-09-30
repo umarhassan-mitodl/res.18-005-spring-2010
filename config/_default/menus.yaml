@@ -1,0 +1,15 @@
+hide_download: true
+hide_download_original: null
+leftnav:
+- identifier: 7d81baa6-870f-6d77-68ee-34a72b7f8625
+  name: Highlights of Calculus (5 videos)
+  pageRef: /video_galleries/highlights_of_calculus
+  weight: 10
+- identifier: 1ed01475-c0bc-d266-84e1-9218f297165d
+  name: Derivatives (12 videos)
+  pageRef: /video_galleries/derivatives
+  weight: 20
+- identifier: 8c3145da-0d89-562f-ea2d-de22c1c95490
+  name: Related Resources
+  pageRef: /pages/related-resources
+  weight: 30
